@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashini Edandupola</h1>
-<h3 align="center">A passionate full stack developer</h3> 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hash-rv&label=Profile%20views&color=0e75b6&style=flat" alt="hashini_ravinga" /> </p>
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
+<h3 align="center">A passionate full stack developer</h3>  
 
 - 🎓 I’m currently studying **Computer Science** 
 
