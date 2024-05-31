@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hashini Edandupola</h1>
 <h3 align="center">A passionate full stack developer</h3> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamudi-samarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chamudi-samarasinghe" /> </p>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hash-rv&label=Profile%20views&color=0e75b6&style=flat" alt="hashini_ravinga" /> </p>
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 
 - 🎓 I’m currently studying **Computer Science** 
 
@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hashini-ravinga-edandupola-52b596217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudi samarasinghe" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/vpuYQmdmWnSXRugq/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamudi samarasinghe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hashi3425?igsh=MW95NG56eGd0dnZ1Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chamu_00_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hashini-ravinga-edandupola-52b596217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashini_ravinga" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/vpuYQmdmWnSXRugq/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashini_ravinga" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hashi3425?igsh=MW95NG56eGd0dnZ1Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hash_98" height="30" width="40" /></a>
 </p>
 <hr> 
 
